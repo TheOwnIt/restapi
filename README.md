@@ -20,6 +20,7 @@ Przykładowa odpowiedź serwera (w formacie JSON) dla URL "https://jsonplacehold
   "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
   "body": "quia et suscipit\nsuscipit... voluptatem sequi\nnesciunt."
 }
+```
 Program wyświetli pole "title" z tej odpowiedzi.
 
 # Autor
